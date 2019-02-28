@@ -1,1 +1,1 @@
-{"project": "projname", "base_url": "https://www.projname.com/", "parent": "./Projects/", "domain_name": "????"}
+{"parent": "./Projects/", "project": "perlmonks", "project_dir": "./Projects/perlmonks/", "base_url": "https://www.perlmonks.org/", "queue": "./Projects/perlmonks/queue.txt", "crawled": "./Projects/perlmonks/crawled.txt", "threads": 8}
